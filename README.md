@@ -101,7 +101,7 @@ npm start
 
 ### 🌐 App URLs (Default)
 
-- Frontend: http://localhost:3000
+- Frontend: http://localhost:5173
 - Backend: http://localhost:5000
 
 ---
