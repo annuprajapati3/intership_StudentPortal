@@ -142,16 +142,7 @@ EMAIL_PASS=your_email_password
 
 ---
 
-## 📸 Screenshots
 
-> *(Optional: Add UI screenshots)*
-
-```
-![Student Dashboard](./screenshots/student-dashboard.png)
-![Teacher Panel](./screenshots/teacher-panel.png)
-```
-
----
 
 ## 🙌 Acknowledgements
 
@@ -163,7 +154,7 @@ EMAIL_PASS=your_email_password
 ## 📫 Contact
 
 **Annu Prajapati**  
-📧 annu@example.com  
+📧 annuprajapati0004@gmail.com 
 🔗 [LinkedIn](https://linkedin.com/in/annu-prajapati)
 
 ---
